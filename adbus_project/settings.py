@@ -22,6 +22,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = os.getenv('SECRET_KEY')
 
+DEBUG = True
+
 ALLOWED_HOSTS = ['192.168.56.1', 'localhost', '127.0.0.1']
 
 CORS_ALLOW_ALL_ORIGINS = True
