@@ -1,0 +1,8 @@
+python manage.py seed
+python manage.py runserver
+
+python tracker/tick.py
+
+
+http://127.0.0.1:8000/ login page
+http://127.0.0.1:8000/tracker/ bus tracker dashboard
