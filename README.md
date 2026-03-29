@@ -82,9 +82,12 @@ python -c "from django.core.management.utils import get_random_secret_key; print
 "python manage.py runserver"
 
 
+# 8. Run the Bus Simulation Engine
+
+"python tracker\tick.py"
 
 
-# 8. Open in Browser
+# 9. Open in Browser
 
 http://127.0.0.1:8000/
 
