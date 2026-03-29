@@ -97,7 +97,7 @@ http://127.0.0.1:8000/
 
 
 
-## 🛠️ Troubleshooting
+# Troubleshooting
 
 * If a module is missing:
 
