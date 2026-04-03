@@ -2,6 +2,8 @@
 This is a university bus tracker (named ADBUs) made using Django and simple frontend scripts.
 ADBUs is a web application that is developed to track the movements and whereabout of an University bus (demo university is Assam Don Bosco University Azara Campus Guwahati India).
 
+# Video tutorial link
+https://youtu.be/ivE8vJzruSk
 
 
 # Setup Guide
